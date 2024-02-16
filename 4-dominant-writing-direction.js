@@ -1,6 +1,6 @@
 const SCRIPTS = require('./includes/scripts.js');
 
-
+// I gave people the right to copy this code
 
 // require('./includes/scripts.js') // include the scripts used by the chapter
 
